@@ -17,9 +17,9 @@ List Price:
 <input type="text" name="price" placeholder=" input price">
 <br/>
 Discount Percent: <br/>
-<input type="text" name="discount" placeholder="input discount">
+<input type="text" name="discount" placeholder="input discount"><br/>
 Product Description: <br/>
-<textarea placeholder="input Description"></textarea>
+<textarea placeholder="input Description"></textarea><br/>
     <input type="submit" value="CaculateDiscount">
 </form>
 </body>
